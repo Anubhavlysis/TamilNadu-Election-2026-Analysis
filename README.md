@@ -119,7 +119,7 @@ Important Notes:
 
 ## Page 1 — Geographic Story
 
-Dashboard_Images/geography.png
+![](Dashboard_Images/geography.png)
 
 ---
 
