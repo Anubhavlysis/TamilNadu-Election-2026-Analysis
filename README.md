@@ -1,4 +1,4 @@
-# Tamil Nadu Election Storytelling Challenge 2026
+# Tamil Nadu Election 2026 Analysis
 
 ## Overview
 
@@ -125,19 +125,19 @@ Important Notes:
 
 ## Page 2 — Flip Story
 
-Dashboard_Images/flip.png
+![](Dashboard_Images/flip.png)
 
 ---
 
 ## Page 3 — Margin Story
 
-Dashboard_Images/margin.png
+![](Dashboard_Images/margin.png)
 
 ---
 
 ## Model View
 
-Dashboard_Images/model_view.png
+![](Dashboard_Images/model_view.png)
 
 ---
 
