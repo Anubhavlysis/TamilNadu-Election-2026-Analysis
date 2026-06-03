@@ -119,19 +119,25 @@ Important Notes:
 
 ## Page 1 — Geographic Story
 
-[Insert Screenshot Here]
+Dashboard_Images/geography.png
 
 ---
 
 ## Page 2 — Flip Story
 
-[Insert Screenshot Here]
+Dashboard_Images/flip.png
 
 ---
 
 ## Page 3 — Margin Story
 
-[Insert Screenshot Here]
+Dashboard_Images/margin.png
+
+---
+
+## Model View
+
+Dashboard_Images/model_view.png
 
 ---
 
