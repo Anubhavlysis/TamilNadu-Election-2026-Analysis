@@ -157,7 +157,6 @@ for organizing this challenge and providing an excellent learning opportunity.
 
 # Author
 
-Anubhav Upadhyay
-Aspiring Data Analyst | SQL | Python | Power BI | AI
+   Anubhav Upadhyay -
+   Aspiring Data Analyst | SQL | Python | Power BI | AI
 
---- 
