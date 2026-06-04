@@ -83,7 +83,7 @@ The project uses constituency-level election data including:
 
 ---
 
-## Story 3: Margin Story
+## Story 3: Victory of Margin Story
 
 ### Key Insights
 
